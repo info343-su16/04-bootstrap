@@ -12,3 +12,12 @@
 
 Challenge: Try to do this with as few rules as possible!
 */
+
+/* unvisited */
+a:link, a:visited {
+    color: blue;
+}
+
+div {
+    display: 
+}

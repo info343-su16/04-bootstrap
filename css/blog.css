@@ -1,3 +1,20 @@
 section header {
   background-color: lightgrey;
 }
+
+.row, .row div {
+  border: 1px solid black;
+}
+/*
+
+bg = palevioletred
+
+if(width > 500){
+  bg = white;
+}
+if(width > 992){
+  bg = lightgreen
+}
+
+
+*/
